@@ -3,8 +3,8 @@
   hey there Im Amin Rajabi  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div>
-  <img align="center" width="30px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVhN2FwNGEyMzhuc3dyYWtwMnBqMmtseTQ0aWt5Y3ZkemtleHIydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"/>
+<div align="center" >
+  <img width="300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVhN2FwNGEyMzhuc3dyYWtwMnBqMmtseTQ0aWt5Y3ZkemtleHIydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"/>
 </div>
 <div align="center">
    <a href="https://www.linkedin.com/in/amin-rajabi-722b172a6/">
