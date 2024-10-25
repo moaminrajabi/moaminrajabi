@@ -17,8 +17,8 @@
     <a href="https://t.me/moaminrajabii">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
     </a>
-      <a href="https://https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fmoaminrajabii%2F&is_from_rle">
-        <img src="https://img.shields.io/badge/instagram?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"  />
+      <a href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fmoaminrajabii%2F&is_from_rle">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.m.wikipedia.org%2Fwiki%2FDatei%3AInstagram_icon.png&psig=AOvVaw1IyF4LvHLxTsBVVz11znTS&ust=1729943201756000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiI_-G6qYkDFQAAAAAdAAAAABAE"  />
     </a>
 </div
 
