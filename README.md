@@ -18,7 +18,7 @@
     </a>
 </div>
 
-<div  dispaly="inline" >
+
 ```js
 const response = {
   status: 200,
@@ -31,7 +31,7 @@ const response = {
   },
 };
 ```
-</div>
+
 
 :hammer_and_wrench: skills :
 
