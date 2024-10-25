@@ -3,8 +3,8 @@
   hey there Im Amin Rajabi  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
- <a href="https://www.linkedin.com/in/amin-rajabi-722b172a6/">
+<div align="center">
+   <a href="https://www.linkedin.com/in/amin-rajabi-722b172a6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="">
@@ -13,8 +13,9 @@
     <a href="https://t.me/moaminrajabii">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
     </a>
-<br/>
-  
+
+</div>
+
 
 ```js
 const response = {
