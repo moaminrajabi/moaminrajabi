@@ -16,10 +16,9 @@
     <a href="https://t.me/moaminrajabii">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
     </a>
-
 </div>
 
-
+<div  dispaly="inline" >
 ```js
 const response = {
   status: 200,
@@ -32,6 +31,7 @@ const response = {
   },
 };
 ```
+</div>
 
 :hammer_and_wrench: skills :
 
