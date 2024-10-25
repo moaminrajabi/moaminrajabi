@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
     </a>
       <a href="https://https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fmoaminrajabii%2F&is_from_rle">
-        <img src="https://img.shields.io/badge/instagram?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram "  />
+        <img src="https://img.shields.io/badge/instagram?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"  />
     </a>
 </div
 
