@@ -7,6 +7,9 @@
   <img width="250px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVhN2FwNGEyMzhuc3dyYWtwMnBqMmtseTQ0aWt5Y3ZkemtleHIydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"/>
 </div>
 <div align="center" dispaly="inline" >
+   <a href="mohammadaminrajabii2004@gmail.com">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
+    </a>
    <a href="https://www.linkedin.com/in/amin-rajabi-722b172a6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
