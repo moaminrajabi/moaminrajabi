@@ -29,8 +29,8 @@ const response = {
     firstName: "Amin",
     lastName : "Rajabi",
     birthDay: "2004 july 18",
-    skills: ["HTML", "CSS", "JS", "React", ...],
-    hobbies: [🏋🏽 ,🏀 ,🎮 ,🎧 ,... ],
+    skills: ["HTML", "CSS", "JS", "TS", "React", "Next.js" ...],
+    hobbies: [🏋🏽 ,👨🏻‍🍳 ,🎮 ,🎧 ,... ],
   },
 };
 ```
